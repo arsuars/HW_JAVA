@@ -1,0 +1,13 @@
+.cards{
+    display: flex;
+}
+
+.userscard{
+    width: 200px;
+    height: 250px;
+    border: solid black 2px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.mainDiv
